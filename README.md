@@ -1,4 +1,4 @@
-<h1>Gushshit - 多功能商店 <img src="https://raw.githubusercontent.com/xkmp/Test/master/MiniatureS-Logo.png" height="64" width="64" align="left"></img></h1>
+<h1>Gushshit - 多功能玩家公告插件 <img src="https://raw.githubusercontent.com/xkmp/Test/master/MiniatureS-Logo.png" height="64" width="64" align="left"></img></h1>
 <br>
 
 ## Gushshit 是什么?

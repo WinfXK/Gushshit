@@ -1,0 +1,15 @@
+name: Gushshit
+main: xiaokai.gushshit.Gushshit
+api:
+- 1.0.0
+version: 1.0
+load: STARTUP
+website: http://EpicFX.cn
+description: 超级无敌史诗宇宙全服自定义公告插件
+author: Winfxk
+depend:
+- EconomyAPI
+permissions:
+   AssGushshit.Command.Main:
+      description: 全服自定义公告主命令
+      default: true
